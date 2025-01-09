@@ -13,4 +13,4 @@ Focus on Quality Assurance: Ensured thorough manual testing coverage, validating
 
 This project exemplifies a strong commitment to maintaining high standards of software quality and showcases expertise in handling dynamic e-commerce applications.
 
-The  link of jira project :  https://mohamedgouda4444-1716919970795.atlassian.net/jira/software/projects/EP/boards/2/timeline
+
